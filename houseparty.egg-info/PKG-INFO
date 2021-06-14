@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: houseparty
-Version: 1.0.0
+Version: 1.0.1
 Summary: Python package to interact with Houseparty's API.
-Home-page: UNKNOWN
+Home-page: https://github.com/milesrack/houseparty
 Author: Miles Rack
 Author-email: milesr4@protonmail.com
-License: UNKNOWN
+License: MIT
 Description: # houseparty
         ## Description
         A python package to interact with Houseparty's API. The following tasks can be automated through the use of this package:

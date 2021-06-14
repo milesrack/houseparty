@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+houseparty/__init__.py
+houseparty/houseparty.py
+houseparty.egg-info/PKG-INFO
+houseparty.egg-info/SOURCES.txt
+houseparty.egg-info/dependency_links.txt
+houseparty.egg-info/requires.txt
+houseparty.egg-info/top_level.txt
